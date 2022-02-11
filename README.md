@@ -3,7 +3,7 @@
 A spiking neuronal network model of medial superior olive circuitry for analyzing spatial hearing perception under various axon myelination patterns.
 
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/libenzheng/MedialSuperiorOliveModel/LICENSE)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/libenzheng/MedialSuperiorOliveModel/blob/main/LICENSE)
 ## Authors
 - [Ben-Zheng Li](https://github.com/libenzheng) @ [Klug lab](https://www.kluglab.org/)
 
@@ -26,14 +26,14 @@ A spiking neuronal network model of medial superior olive circuitry for analyzin
 
 ## Usage and Example
 
-- Edit and run [configuration.py](https://github.com/libenzheng/MedialSuperiorOliveModel/configuration.py) to update simulation settings, including:
+- Edit and run [configuration.py](https://github.com/libenzheng/MedialSuperiorOliveModel/blob/main/configuration.py) to update simulation settings, including:
     - characteristic frequencies of auditory nerve fibers 
     - frequencies and types of sound stimuli (pure tones and owl calls)
     - number of replica and random permutations
     - parameters of neuron and synapse 
     - myelination properties
 
-- To generate ITD tuning curve in the paper (e.g. Fig.3), run [example.ipynb](https://github.com/libenzheng/MedialSuperiorOliveModel/example.ipynb) using more random permutations (n_seed = 20).
+- To generate ITD tuning curve in the paper (e.g. Fig.3), run [example.ipynb](https://github.com/libenzheng/MedialSuperiorOliveModel/blob/main/example.ipynb) using more random permutations (n_seed = 20).
 
 
 ## Citation
@@ -49,4 +49,4 @@ To be updated.
 
 ## License
 
-This project is licensed under the MIT license ([LICENSE](https://github.com/libenzheng/MedialSuperiorOliveModel/LICENSE)).
+This project is licensed under the MIT license ([LICENSE](https://github.com/libenzheng/MedialSuperiorOliveModel/blob/main/LICENSE)).
