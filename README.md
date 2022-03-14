@@ -38,12 +38,8 @@ A spiking neuronal network model of medial superior olive circuitry for analyzin
 
 ## Citation
 
-```
- Ben-Zheng Li, Sio Hang Pun, Mang I Vai, Tim Lei, Achim Klug (2022) 
- Predicting the Influence of Axon Myelination on Sound Localization Precision
- Using a Spiking Neural Network Model of Auditory Brainstem. Front. 
- Neurosci. 16:840983. doi: 10.3389/fnins.2022.840983
-```
+Ben-Zheng Li, Sio Hang Pun, Mang I Vai, Tim Lei, Achim Klug (2022) Predicting the Influence of Axon Myelination on Sound Localization Precision Using a Spiking Neural Network Model of Auditory Brainstem. Front. Neurosci. 16:840983. doi: 10.3389/fnins.2022.840983
+
 
 
 
